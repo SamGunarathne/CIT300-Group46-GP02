@@ -1,3 +1,4 @@
+package Data_Sorter;
 public class MergeSort {
     private static int steps;
 
