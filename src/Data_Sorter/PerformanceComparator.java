@@ -1,3 +1,5 @@
+package Data_Sorter;
+
 public class PerformanceComparator {
     public static void showComparison(SortResult... results) {
         System.out.println("\n--- Performance Summary ---");

@@ -1,3 +1,5 @@
+package Data_Sorter;
+
 public class SortResult {
     String name;
     int[] sortedArray;
